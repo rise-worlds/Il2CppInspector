@@ -15,7 +15,7 @@
     <Copyright>(c) 2017-2021 Katy Coe - www.djkaty.com - www.github.com/djkaty</Copyright>
     <PackageId>Il2CppInspector.CLI</PackageId>
     <Authors>Katy Coe</Authors>
-    <AssemblyName>Il2CppInspector</AssemblyName>
+    <AssemblyName>Il2CppInspector-CLI</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
